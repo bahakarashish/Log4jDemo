@@ -14,6 +14,7 @@ logger.debug("Debug message");
 logger.warn("Warning message");
 logger.error("Error message");
 logger.fatal("Fatal message");
+logger.fatal("GitHub Message");
 
 Divisionclass dc = new Divisionclass();
 try
